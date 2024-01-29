@@ -41,6 +41,11 @@
         </p>
       </div>
     </section>
+    <footer class="p-6 container py-20 mx-auto ">
+      <p class="text-xl text-white bg-white bg-opacity-[10%] rounded-xl p-5">
+        Disclaimer: This token is simply paying homage to a meme with intention of spreading love among people. Do your own research and be fully responsible for everyloss you encounter
+      </p>
+    </footer>
   </main>
 </template>
 <style>

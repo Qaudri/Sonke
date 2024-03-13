@@ -20,16 +20,16 @@
         </div>
       </div>
     </header>
-    <section class="grid md:grid-cols-2 gap-12 px-6 py-20 container mx-auto">
+    <section class="grid gap-12 px-6 py-20 container mx-auto">
       <div class="bg-white bg-opacity-[10%] p-6 rounded-xl w-full">
         <img src="/about.svg" class="h-16 mx-auto -mt-14" alt="">
         <p class="text-xl text-white mt-5">
 
           
-          SONKE Memecoin on the Solana blockchain offers a unique and engaging experience for those interested in exploring the world of decentralized finance and meme culture. With its fast transaction speeds, low fees, and active community, SONKE has the potential to become a prominent player in the meme coin space.<br />
-SONKE utilizes a deflationary token model, which means liquidity is burned  and zero tax  This scarcity could potentially drive up the value of SONKE tokens, making them a valuable asset for investors.
+          SONKE Memecoin on the Solana blockchain offers a unique and engaging experience for those interested in exploring the world of decentralized finance and meme culture. With its fast transaction speeds, low fees, and active community, SONKE has the potential to become a prominent player in the meme coin space.<br /><br />
+SONKE utilizes a deflationary token model, which means liquidity is burned  and zero tax  This scarcity could potentially drive up the value of SONKE tokens, making them a valuable asset for investors.<br/><br/>
 
-In addition to its financial benefits, SONKE Memecoin also offers a range of community-driven initiatives, such as meme contests, giveaways, and community events. By fostering a sense of community and engagement, SONKE Memecoin has built a loyal following that is passionate about meme culture and cryptocurrency.
+In addition to its financial benefits, SONKE Memecoin also offers a range of community-driven initiatives, such as meme contests, giveaways, and community events. By fostering a sense of community and engagement, SONKE Memecoin has built a loyal following that is passionate about meme culture and cryptocurrency.<br/><br/>
 
 Overall, SONKE Memecoin on the Solana blockchain is a promising project that combines the best of meme culture and decentralized finance. With its unique features and active community, SONKE has the potential to stand out in the crowded meme coin space and become a favorite among crypto enthusiasts.
         </p>
